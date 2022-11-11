@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Videojuegos>
+	<juego category="xbox">
+		<title lang="en"> Gears of war </title>
+		<genero>Guerra, shooter</genero>
+		<entregas>
+			<title2>Gears of war 1</title2>
+			<title2>Gears of war 2</title2>
+			<title2>Gears of war 3</title2>
+			<title2>Gears of war judgment</title2>
+			<title2>Gears of war 4</title2>
+			<title2>Gears of war 5</title2>
+		</entregas>
+	</juego>
+	<juego category="PlayStation">
+		<title	lang="en">God of war</title>
+		<genero>Accion-Aventura</genero>
+		<entregas>
+			<title2>God of war 1</title2>
+			<title2>God of war 2</title2>
+			<title2>God of war Betrayal</title2>
+			<title2>God of war Chains of Olympus</title2>
+			<title2>God of war 3</title2>
+			<title2>God of war Ghost of sparta</title2>
+			<title2>God of war Ascension</title2>
+			<title2>God of war 4</title2>
+			<title2>God of war Ragnarök</title2>
+		</entregas>
+	</juego>
+	<juego category="Nintendo">
+		<title lang="en">Super Mario cart</title>
+		<genero>Carreras</genero>
+		<entregas>
+			<title2>Super Mario kart</title2>
+			<title2>Mario kart 64</title2>
+			<title2>Mario kart 7</title2>
+			<title2>Mario kart 8</title2>
+		</entregas>
+	</juego>
+	<juego category="Computadora">
+		<title lang="en">Doom</title>
+		<genero>Aventura, disparos</genero>
+		<entregas>
+			<title2>Doom 1</title2>
+			<title2>Doom 2</title2>
+		</entregas>
+	</juego>
+	<juego category="Celular">
+		<title>Kingdom in chaos</title>
+		<genero>Aventura, juego de rol, estrategia</genero>
+		<entregas>
+			<title2>Kingdom in chaos</title2>
+		</entregas>
+	</juego>	
+</Videojuegos>

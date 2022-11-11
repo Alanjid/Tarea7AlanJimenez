@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<motocicletas>
+	<marca category="Italika">
+		<calidad>Baja</calidad>
+		<modelos>
+			<modelo>Speed fire</modelo>
+			<caracteristicas>
+				<torque>Medio</torque>
+				<Estilo>Cafe racer</Estilo>
+			</caracteristicas>
+			<modelo>w150</modelo>
+			<caracteristicas>
+				<torque>Bajo</torque>
+				<estilo>Motoneta</estilo>
+			</caracteristicas>
+			<modelo>DW150</modelo>
+			<caracteristicas>
+				<torque>bajo></torque>
+				<estilo>Trabajo</estilo>
+			</caracteristicas>
+		</modelos>
+	</marca>
+	<marca category="Honda">
+		<calidad>Media</calidad>
+		<modelos>
+			<modelo>Creamer 250</modelo>
+			<caracteristicas>
+				<torque>Medio</torque>
+				<estilo>Scrambler</estilo>
+			</caracteristicas>
+		</modelos>
+	</marca>
+	<marca category="MB">
+		<calidad>Media</calidad>
+		<modelos>
+			<modelo>Tekken 250</modelo>
+			<caracteristicas>
+				<torque>Alto</torque>
+				<estilo>Doble proposito</estilo>
+			</caracteristicas>
+		</modelos>
+	</marca>
+	<marca category="bajaj">
+		<calidad>Alta</calidad>
+		<modelos>
+			<modelo>Pulsar N250</modelo>
+			<caracteristicas>
+				<torque>Alto</torque>
+				<estilo>Pista</estilo>
+			</caracteristicas>
+			<modelo>Dominar</modelo>
+			<caracteristicas>
+				<torque>Medio</torque>
+				<estilo>Pista</estilo>
+			</caracteristicas>
+		</modelos>
+	</marca>
+	<marca category="Benelli">
+		<calidad>Alta</calidad>
+		<modelos>
+			<modelo>TNT 250</modelo>
+			<caracteristicas>
+				<torque>Alto</torque>
+				<estilo>Pista</estilo>
+			</caracteristicas>
+		</modelos>
+	</marca>
+</motocicletas>
